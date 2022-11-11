@@ -1,0 +1,48 @@
+body{
+    padding:0;
+}
+
+.box{
+  text-align: center;
+  
+  
+}
+
+.second-box{
+    text-align: center;
+    width: 90%;
+    background-color:rgb(238, 238, 238);
+    margin:auto;
+}
+table{
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+    padding: 0;
+    margin-bottom: 15px;
+    
+    
+}
+td:first-child{
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+  
+}
+
+td:nth-child(2){
+    background-color: rgb(112, 204, 194);
+    line-height: 0.9;
+}
+
+td:last-child{
+    background-color: rgb(98, 179, 170);
+    line-height: 0.9;
+}
+a{
+    color: blue;
+}
+
+
+
+
+
